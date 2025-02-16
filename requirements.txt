@@ -1,0 +1,5 @@
+kivy
+kivymd
+opencv-python
+face_recognition
+pillow 
